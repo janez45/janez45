@@ -2,7 +2,7 @@
 
 I'm a lover of all things software. Feel free to reach out!
 
-### Work Experience:
+### Experience:
 
 - Software Engineer @ **Scotiabank Global AI&ML** 
 - Co-President @ **UW AWS Cloud Club**

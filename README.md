@@ -1,4 +1,4 @@
-## Hi there! I'm Jane, a software engineering sophomore at the University of Waterloo. 
+## Hi there! I'm Jane, a rising software engineering sophomore at the University of Waterloo. 
 
 I'm a lover of all things software. Feel free to reach out!
 

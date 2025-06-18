@@ -3,8 +3,8 @@
 I'm a lover of all things software. Feel free to reach out!
 
 ### Experience:
-
-- Software Engineer @ **Scotiabank Global AI&ML** 
+- Incoming @ **1Password**
+- 2x Software Engineer @ **Scotiabank Global AI&ML** 
 - Co-President @ **UW AWS Cloud Club**
 - Software Engineer @ **Waterloo Aerial Robotics Group** -> Drone Autonomy
 - Programming Lead @ **FRC Team 7902** 

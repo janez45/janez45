@@ -1,9 +1,9 @@
-## Hi there! I'm Jane, a software engineering sophomore at the University of Waterloo. 
+## Hi there! I'm Jane, a rising software engineering junior at the University of Waterloo. 
 
 I'm a lover of all things software. Feel free to reach out!
 
 ### Experience:
-- Incoming @ **1Password**
+- SWE @ **1Password**
 - 2x Software Engineer @ **Scotiabank Global AI&ML** 
 - Co-President @ **UW AWS Cloud Club**
 - Software Engineer @ **Waterloo Aerial Robotics Group** -> Drone Autonomy

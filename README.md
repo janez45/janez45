@@ -3,6 +3,7 @@
 I'm a lover of all things software. Feel free to reach out!
 
 ### Experience:
+- SWE @ **Aven Financial**
 - SWE @ **1Password**
 - 2x Software Engineer @ **Scotiabank Global AI&ML** 
 - Co-President @ **UW AWS Cloud Club**
